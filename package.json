@@ -1,0 +1,18 @@
+{
+  "name": "flutterapi",
+  "version": "1.0.0",
+  "description": "Backend API for flutter that uses Web Sockets to communicate with Flutter Mobile App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fhatuwani Raphalalani",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "ws": "^8.13.0"
+  }
+}
